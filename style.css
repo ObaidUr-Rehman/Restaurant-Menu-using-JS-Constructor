@@ -1,10 +1,10 @@
 #first{
     text-align: center;
     background: url(./img.jpg);
-    /* background-position: cover; */
     background-repeat: no-repeat;
     background-size: cover;
     width: 500px;
     margin-left:300px ;
+    
 }
 

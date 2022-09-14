@@ -119,6 +119,4 @@ for(var i in drinks){
     list.appendChild(listtext);
 
     c.appendChild(list);
-
 }
-
